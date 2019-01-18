@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello test World</p>'; ?> 
+ <?php echo '<p>ahoj paja</p>'; ?> 
  </body>
 </html>
